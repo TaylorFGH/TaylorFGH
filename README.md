@@ -12,6 +12,7 @@ coding, you'll find me watching movies or thinking of my next big project!
 
 
 
+
 ## Languages, Skills, and Frameworks
 
 <p align="left">
