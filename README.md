@@ -8,7 +8,8 @@ coding, you'll find me watching movies or thinking of my next big project!
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&theme=github_dark)
+
 
 
 ## Languages, Skills, and Frameworks
