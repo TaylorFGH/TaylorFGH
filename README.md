@@ -8,7 +8,14 @@ coding, you'll find me watching movies or thinking of my next big project!
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&theme=github_dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&bg_color=00000000)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&theme=github_light" alt="Your GitHub Stats">
+</picture>
+
 
 
 
