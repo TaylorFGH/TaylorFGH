@@ -1,16 +1,12 @@
-<h1 align="center">Taylor McGonagle</h1>
+# Taylor McGonagle
+
+**`First Year Computing Student`**
 
 Hi there! I'm Taylor, a passionate developer, movie enthusiast, and lifelong learner. I specialize in
 creating engaging websites, crafting cool projects, and diving into the latest tech trends. When I'm not
 coding, you'll find me watching movies or thinking of my next big project!
 
 ---
-
-## My GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&bg_color=00000000)
-
-
 
 ### 🧰 Languages and Tools
 
@@ -22,3 +18,8 @@ coding, you'll find me watching movies or thinking of my next big project!
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&bg_color=00000000)
