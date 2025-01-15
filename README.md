@@ -6,6 +6,11 @@ coding, you'll find me watching movies or thinking of my next big project!
 
 ---
 
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+
+
 ## Languages, Skills, and Frameworks
 
 <p align="left">
