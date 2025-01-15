@@ -1,6 +1,4 @@
-# [Taylor McGonagle]
-
----
+# Taylor McGonagle
 
 Hi there! I'm Taylor, a passionate developer, movie enthusiast, and lifelong learner. I specialize in
 creating engaging websites, crafting cool projects, and diving into the latest tech trends. When I'm not
