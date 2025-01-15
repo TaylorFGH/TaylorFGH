@@ -2,9 +2,8 @@
 
 **`First Year Computing Student`**
 
-Hi there! I'm Taylor, a passionate developer, movie enthusiast, and lifelong learner. I specialize in
-creating engaging websites, crafting cool projects, and diving into the latest tech trends. When I'm not
-coding, you'll find me watching movies or thinking of my next big project!
+👋 Hi there! I'm Taylor, a passionate developer and student, movie enthusiast, and lifelong learner. I like to learn as i create and when i do its usually fun and interesting projects.
+I love learning and diving into the latest tech trends or even just making stuff for the challenge. When I'm not coding, you'll find me watching movies or thinking of my next big project!
 
 ---
 
@@ -20,7 +19,7 @@ coding, you'll find me watching movies or thinking of my next big project!
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-## Contact Me
+### 📞 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-taylormcg169@gmail.com-blue)](mailto:taylormcg169@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Taylor%20McGonagle-blue)](https://www.linkedin.com/in/taylor-mcgonagle)
