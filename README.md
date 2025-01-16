@@ -19,6 +19,8 @@ I love learning and diving into the latest tech trends or even just making stuff
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
+---
+
 ### 📞 Contact Me
 
 [![Email](https://img.shields.io/badge/Email-taylormcg169@gmail.com-blue)](mailto:taylormcg169@gmail.com)
