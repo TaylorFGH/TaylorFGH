@@ -1,6 +1,6 @@
 # Taylor McGonagle
 
-**`First Year Computing Student`**
+**`Second Year Computing Student`**
 
 👋 Hi there! I'm Taylor, a passionate developer and student, movie enthusiast, and lifelong learner. I like to learn as i create and when i do its usually fun and interesting projects.
 I love learning and diving into the latest tech trends or even just making stuff for the challenge. When I'm not coding, you'll find me watching movies or thinking of my next big project!
@@ -10,6 +10,7 @@ I love learning and diving into the latest tech trends or even just making stuff
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <! --<img align="left" alt="Spring" title="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Lua" title="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
