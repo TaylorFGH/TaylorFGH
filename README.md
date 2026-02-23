@@ -33,6 +33,4 @@ I love learning and diving into the latest tech trends or even just making stuff
 
 
 
-## My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorFGH&show_icons=true&hide_title=true&bg_color=00000000)
