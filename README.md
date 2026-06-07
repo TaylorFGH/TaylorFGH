@@ -1,6 +1,6 @@
 # Taylor McGonagle
 
-**`Second Year Computing Student`**
+**`Third Year Computing Student`**
 
 👋 Hi there! I'm Taylor, a passionate developer and student, movie enthusiast, and lifelong learner. I like to learn as i create and when i do its usually fun and interesting projects.
 I love learning and diving into the latest tech trends or even just making stuff for the challenge. When I'm not coding, you'll find me watching movies or thinking of my next big project!
